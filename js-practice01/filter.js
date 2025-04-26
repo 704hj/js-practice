@@ -42,7 +42,7 @@ const userss = [
   //=== true는 생략 가능
   console.log(userr);
 
-  const scores = [85, 92, 58, 77, 99, 61 ];
+  const scores = [85, 92, 58, 77, 99, 61];
 
 // 80점 이상인 점수만 추리기
 // 기대 결과: [85, 92, 99]
