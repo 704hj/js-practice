@@ -56,7 +56,7 @@ const products = [
     { name: "신발", price: 50000 },
     { name: "양말", price: 3000 }
   ];
-  // 가격이 20000원 이상인 상품만 추리기
+  // 가격이 20000원 이상인 상품
 // 기대 결과: [{ name: "티셔츠", price: 25000 }, { name: "신발", price: 50000 }]
 const expensive = products.filter((product) => product.price >= 20000);
 console.log(expensive);
