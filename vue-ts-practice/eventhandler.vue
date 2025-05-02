@@ -4,7 +4,7 @@ import { defineComponent } from "vue";
 export default defineComponent({
   data() {
     return {
-      todo: "",
+      todo: " ",
     };
   },
   methods: {
